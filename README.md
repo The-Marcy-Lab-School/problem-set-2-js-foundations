@@ -5,9 +5,8 @@ There are two parts to this problem set:
 * A written response section
 * JavaScript small problems
 
-To complete and submit this problem set, you will...
+To complete and submit this problem set...
 1. Your written response questions live in the `short-response.md` file. Record your answers without removing the original questions. Use complete sentences and style appropriately with markdown.
-2. 
 3. Your small problems are in the `problems` directory. The directory contains these files:
     * `README.md`
     * `answers.js` 
