@@ -51,4 +51,4 @@
 
 7. Define _hoisting_. What impact does hoisting have on the way that we structure our JavaScript programs?
 
-8. Which type of functions are hoisted? Which type are not?
+8. Which type(s) of functions are hoisted? Which type(s) are not?
