@@ -1,14 +1,14 @@
-# Unit 2 Lesson 3 Problem Set
-## Introduction to JavaScript Functions 
+# Unit 2 - JavaScript Foundations
 
 ### Directions
-Like last time, there are two parts to this problem set:
+There are two parts to this problem set:
 * A written response section
-* JavaScript small problems<sup>[1](#myfootnote1)</sup>
+* JavaScript small problems
 
 To complete and submit this problem set, you will...
 1. Your written response questions live in the `short-response.md` file. Record your answers without removing the original questions. Use complete sentences and style appropriately with markdown.
-2. Your small problems are in the `problems` directory. The directory contains these files:
+2. 
+3. Your small problems are in the `problems` directory. The directory contains these files:
     * `README.md`
     * `answers.js` 
     * `index.html`
@@ -24,7 +24,7 @@ Example:
       }
 ```
     
-I included the `index.html` file for you so that you can run your code in the browser and use Chrome Dev tools.
+We've included the `index.html` file for you so that you can run your code in the browser and use Chrome Dev tools.
 
 ### On _Testing_
 
@@ -36,5 +36,4 @@ For now, just follow these steps to test your code using the tests that I wrote.
   3. Commit frequently.
   4. When you are finished, push your changes to your remote repo and submit the URL thorugh Canvas. 
 
-##
-<a name="myfootnote1">**1**</a>: Exercises adapted from [Launch School](https://launchschool.com) small problems and [Code Wars](https://codewars.com) katas.
+
