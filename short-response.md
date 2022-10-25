@@ -1,12 +1,54 @@
-# Unit 2 - Lesson 3: Introduction to JavaScript Functions
+# Unit 2 - JavaScript Foundations
+
 ## Short Response Questions
 
-1. What is the difference between function parameters and arguments?
+#### Types, Values, Operators
+1. What are the seven JavaScript data types? Which of these are considered primitive?
 
-2. What happens when you invoke a JavaScript function with a missing argument? What about calling a function with _extra_ arguments? 
+2. What does it mean to be truthy or falsy? What six values are falsy?
 
-3. Define _hoisting_. What impact does hoisting have on the way that we structure our JavaScript programs?
+3. For each example, evaluate the expression and in one sentence, explain what coercions were applied and why:
 
-4. Which type of functions are hoisted? Which type are not?
+* `8 * null`
+* `"5" - 1`
+* `"5" + 1`
+* `true + false`
+* `"i am" + undefined`
 
 
+#### Variables and Control Flow
+
+4. **What does the code below log? Why?**
+   ```javascript
+   {
+      let singer = 'Omar Apollo';
+   }
+
+   console.log(`My favorite singer is ${singer}`);
+
+   ```
+5. **What happens when we run the following code? Why?**
+   ```javascript
+   const favorite = 'Juan Pablo';
+   console.log(`Our favorite Marcy Lab family member is ${favorite}!`);
+
+   favorite = 'Maya';
+   console.log(`Actually, ${favorite} is my favorite.`);
+   ```
+   
+6. **The following code causes an infinite loop. Why?**
+   ```javascript
+   let counter = 0;
+
+   while (counter <= 5) {
+     counter = 1;
+     console.log(`count: ${counter}`);
+     counter += 1;
+   }
+   ```
+
+#### Functions
+
+7. Define _hoisting_. What impact does hoisting have on the way that we structure our JavaScript programs?
+
+8. Which type of functions are hoisted? Which type are not?
