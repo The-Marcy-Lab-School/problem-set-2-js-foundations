@@ -2,7 +2,11 @@
 
 ## Short Response Questions
 
-#### Types, Values, Operators
+**Directions:**
+Write your responses directly below in this document without removing the questions. Your answers must be properly formatted. You should preview this markdown file before submitting. When you commit and push your changes, you will also be able to see your rendered markdown on GitHub.
+
+
+### Types, Values, Operators
 1. What are the seven JavaScript data types? Which of these are considered primitive?
 
 2. What does it mean to be truthy or falsy? What six values are falsy?
@@ -16,7 +20,7 @@
 * `"i am" + undefined`
 
 
-#### Variables and Control Flow
+### Variables and Control Flow
 
 4. **What does the code below log? Why?**
    ```javascript
@@ -47,7 +51,7 @@
    }
    ```
 
-#### Functions
+### Functions
 
 7. Define _hoisting_. What impact does hoisting have on the way that we structure our JavaScript programs?
 
