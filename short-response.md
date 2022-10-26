@@ -7,9 +7,9 @@ Write your responses directly below in this document without removing the questi
 
 
 ### Types, Values, Operators
-1. What are the seven JavaScript data types? Which of these are considered primitive?
+1. What are the seven primitive data types in JavaScript? What is the last non-primitive data type?
 
-2. What does it mean to be truthy or falsy? What six values are falsy?
+2. What does it mean to be truthy or falsy? What are all the primitive falsy values?
 
 3. For each example, evaluate the expression and in one sentence, explain what coercions were applied and why:
 
