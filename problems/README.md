@@ -73,10 +73,10 @@
 
 8. Write a describeAge function that takes a parameter age (which will always be a positive integer) and does the following:
 
-    If the age is 12 or lower, it returns `"You're a kid"`
-    If the age is anything between 13 and 17 (inclusive), it returns `"You're a teenager"`
-    If the age is anything between 18 and 64 (inclusive), it return `"You're an adult"`
-    If the age is 65 or above, it return `"You're an elderly"`
+    If the age is 12 or lower, it returns `"You're a kid."`
+    If the age is anything between 13 and 17 (inclusive), it returns `"You're a teenager."`
+    If the age is anything between 18 and 64 (inclusive), it return `"You're an adult."`
+    If the age is 65 or above, it return `"You're an elderly."`
     **Bonus:** write this function using as few lines of code as possible. Up for a challenge? This function can be written in one-line using ternary operator(s) 😳.
 
     Examples:
